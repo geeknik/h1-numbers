@@ -60,6 +60,8 @@ default; the token prevents drive-by CSRF from anything running locally.)
 
 Open <http://127.0.0.1:8765/>.
 
+<img width="1619" height="951" alt="image" src="https://github.com/user-attachments/assets/3e64942c-59f4-440f-870e-2f3350c1900b" />
+
 ## Architecture
 
 ```
