@@ -130,4 +130,4 @@ The dashboard's refresh button has the same `full` toggle.
 
 ## License
 
-MIT
+[Apache License 2.0](LICENSE)
